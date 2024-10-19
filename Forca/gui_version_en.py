@@ -336,7 +336,7 @@ class Application(Challenge, Functions):  # Class structuring the graphical inte
 
         self.canvas_thumb = Canvas(self.initial_frame, bg='white', width=800, height=280)
         self.canvas_thumb.place(x=100, y=50)
-        self.img_thumb = PhotoImage(Image.open('IMG/thumb_en.png'))  
+        self.img_thumb = PhotoImage(Image.open('Forca/IMG/thumb_en.png'))  
         self.thumb = self.canvas_thumb.create_image(0, 0, anchor=NW, image=self.img_thumb)
 
         if validity:
