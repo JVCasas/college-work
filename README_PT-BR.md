@@ -5,8 +5,34 @@ Este repositório é dedicado a programas que fiz para avaliações e aprendizad
 ## Programas
 ### Jogo da Forca
 
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_menu_prompt.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_prompt_inicio.JPG">
+</p>
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_menu_pt-br.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_play_meio.JPG">
+</p>
+
 Foi um trabalho que teve duas fases, uma onde eu deveria fazer um jogo da forca funcional em prompt e as palavras para o jogo deviam estar num arquivo .txt, e a segunda fase onde eu deveria fazer a mesma coisa porem desta vez em uma interface gráfica, logo uma "melhoria" do código original. O arquivo .txt usado em ambas as versões é o mesmo. Não disponibilizei um arquivo de palavras para o jogo em inglês, mas seguindo as regras que se encontram comentadas no código você pode criar seu próprio banco de palavras. As versões GUI precisam de imagens externas na pasta IMG.
 
 ### Sudoku
+
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_menu_prompt.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_jogo_prompt.JPG">
+</p>
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_menu.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_jogo.JPG">
+</p>
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_menu_prompt.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/forca_prompt_inicio.JPG">
+</p>
+<p aling="center">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_popup.JPG">
+  <img style="width:40%;height:40%;" src="README_FILES/Sudoku_popup_vitoria.JPG">
+</p>
 
 O processo do sudoku se deu de forma semelhante ao ocorrido no jogo da forca, desenvolvimento de um programa que funcione em prompt e depois a implementação de uma versão em interface gráfica. O programa não necessita de arquivos externos.
