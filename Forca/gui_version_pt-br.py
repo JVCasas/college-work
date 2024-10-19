@@ -348,7 +348,7 @@ class aplicação(desafio, funcoes):#classe que estrutura a interface gráfica e
 
         self.canvasThumb = Canvas(self.frameInicial, bg = 'white', width = 800, height = 280)
         self.canvasThumb.place(x = 100, y = 50)
-        self.imgThumb = ImageTk.PhotoImage(Image.open('IMG/thumb_pt-br.png'))
+        self.imgThumb = ImageTk.PhotoImage(Image.open('Forca/IMG/thumb_pt-br.png'))
         self.thumb = self.canvasThumb.create_image(0, 0, anchor = NW, image = self.imgThumb)
 
         
