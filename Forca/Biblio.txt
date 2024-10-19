@@ -1,0 +1,5 @@
+Frutas#Pêsego,Banana,Maçã,Morango,Uva,Manga,Fruta-Pão
+Paises#Estados Unidos,Líbia,França,Espanha,Brasil,Bolívia,Chile
+Materiais de Escritório#Caneta,Papel,Grampo,Lápis,Borracha
+Utensílios de Cozinha#Frigideira,Panela de Pressão,Espatula,Garfo,Faca,Colher,Espumadeira
+Vegetais#Batata,Cenoura,Inhâme,Cebola,Pepino
